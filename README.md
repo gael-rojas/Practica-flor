@@ -14,6 +14,7 @@ Teniendo esto en cuenta introduciremos un ciclo "while" dentro del codigo para h
 
 ## Resultados finales
 Este seria el resultado de la flor de loto con las 6 caras
+
 ![Resultado de 6 circulos](resultado_2.png)
 
 ## Resultados alternativos
